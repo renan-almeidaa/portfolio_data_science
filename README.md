@@ -21,4 +21,4 @@ Possui experiências em desenvolvimento de projetos web, mobile e eventos de Hac
 ## Projetos:
 Veja meus projetos de Data Science:
 * **Reconhecimento de padrões frequentes em sequências de DNA:** http://bit.ly/3UzPHnc 
-* **Análise Exploratória de Dados do Airbnb - Hong Kong:**  
+* **Análise Exploratória de Dados do Airbnb - Hong Kong: https://bit.ly/414cGsc**  
